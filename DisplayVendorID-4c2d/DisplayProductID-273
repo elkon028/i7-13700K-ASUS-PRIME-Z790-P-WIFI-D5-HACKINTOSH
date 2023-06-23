@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>DisplayProductName</key>
+  <string>SyncMaster</string>
+  <key>DisplayProductID</key>
+  <integer>627</integer>
+  <key>DisplayVendorID</key>
+  <integer>19501</integer>
+  <key>scale-resolutions</key>
+  <array>
+    <data>AAAFoAAAA4QAAAABACAAAA==</data>
+    <data>AAAFAAAAAyAAAAABACAAAA==</data>
+  </array>
+</dict>
+</plist>
