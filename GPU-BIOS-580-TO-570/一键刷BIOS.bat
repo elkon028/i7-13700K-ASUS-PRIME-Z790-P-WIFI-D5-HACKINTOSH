@@ -1,0 +1,1 @@
+cmd /k "c:\GPU-BIOS-580-TO-570\amdvbflash\amdvbflashWin.exe -f -p 0 c:\GPU-BIOS-580-TO-570\Sapphire.RX570.8192.170328.rom"

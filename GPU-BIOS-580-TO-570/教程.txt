@@ -1,0 +1,3 @@
+将 GPU-BIOS-580-TO-570 目录复制到 C:盘
+如：C:\GPU-BIOS-580-TO-570
+运行 C:\GPU-BIOS-580-TO-570\一键刷BIOS.bat
