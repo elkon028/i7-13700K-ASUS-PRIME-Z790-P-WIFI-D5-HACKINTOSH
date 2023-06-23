@@ -1,3 +1,13 @@
-将 GPU-BIOS-580-TO-570 目录复制到 C:盘
-如：C:\GPU-BIOS-580-TO-570
-运行 C:\GPU-BIOS-580-TO-570\一键刷BIOS.bat
+## 文件说明
+- [580 显卡BIOS备份]
+  580-Ellesmere.rom
+- [570显卡rom]
+  Sapphire.RX570.8192.170328.rom
+
+## GPU工具
+GPU-Z.2.53.0.exe 
+
+## 刷 GPU BIOS 方法
+  1. 将 GPU-BIOS-580-TO-570 目录复制到 C:盘
+    如：C:\GPU-BIOS-580-TO-570
+  2. 运行 C:\GPU-BIOS-580-TO-570\一键刷BIOS.bat

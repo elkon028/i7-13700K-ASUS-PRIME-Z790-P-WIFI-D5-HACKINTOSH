@@ -41,17 +41,6 @@
 - 接力
 - 睡眠
 
-## 目录结构
-  ```
-  ├─EFI
-  ├─GPU-BIOS-580-TO-570
-  │    ├─── 一键刷BIOS.bat
-  │    ├───GPU-Z.2.53.0.exe
-  │    ├───Sapphire.RX570.8192.170328.rom # [570显卡rom]
-  │    └───580-Ellesmere.rom # [580 显卡BIOS备份]
-  │
-  └─tools # 相关工具
-  ```
 ## SIP 关闭 / 开启
 - macos 启动时按住 cmd+R 键，进入Recovery模式
 - 打开终端，输入：
